@@ -8,8 +8,6 @@ var express = require('express'),
     user,
     email;
 
-app.use(express.static(__dirname));
-
 server.listen(process.env.PORT || 8124);
 
 app.all('/*', function(req, res, next) {
