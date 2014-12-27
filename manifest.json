@@ -5,6 +5,10 @@
       "name": "canary"
     },
     {
+      "url": "https://www.simple.com/",
+      "name": "simple"
+    },
+    {
       "url": "https://www.heroku.com/",
       "name": "heroku"
     },
