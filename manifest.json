@@ -3,6 +3,10 @@
     {
       "url": "http://www.canary.io",
       "name": "canary"
+    },
+    {
+      "url": "https://github.com",
+      "name": "github"
     }
   ]
 }
