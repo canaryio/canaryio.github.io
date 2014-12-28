@@ -29,13 +29,6 @@
     
 }
 
-.special_2 {
-    text-align: left;
-    font-size: 20px;
-    font-family: courier-new;
-    max-width: 90%;
-    
-}
 .container {
     margin-left: 15%;
     margin-right: 10%;    
@@ -56,18 +49,6 @@
     font-weight: bold;
 }
 
-.h2_sp {
-    margin-left: 10%;
-    text-align: left;
-    font-family: monospace;
-    font-weight: bolder;
-}
-.h3_sp {
-    margin-left: 8%;
-    text-align: left;
-    font-family: monospace;
-    font-weight: bolder;
-}
 #thankyou {
   display: none;
     align-items:center;
@@ -82,6 +63,3 @@
     margin-left: 25%;
 }
 
-.segment {
-    padding-bottom: 5%;
-}
